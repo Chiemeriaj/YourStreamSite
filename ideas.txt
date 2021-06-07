@@ -1,0 +1,16 @@
+** Ideas **
+
+Code needs to be as simple as possible.
+
+Embed options youtube/twitch facebook maybe?
+
+Viewer sign-in
+create own account backend or use third party ex: Google identity or twitch api.
+
+Simple front-end color changer. Ex: host is able to change site colors without knowing css.
+
+Simple chat feature.
+
+Discord/twitter live announcement
+
+RUN TESTS
